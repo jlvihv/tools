@@ -1,0 +1,12 @@
+in_time = "0 0 8 ? * 1-5"
+out_time = "0 31 17 ? * 1-5"
+
+[[User]]
+username = "zhangyf@zts.com.cn"
+password = "@H0my1ove#"
+#email = "vihv@qq.com"
+#
+#[[User]]
+#username = "wangyr@zts.com.cn"
+#password = "05l620Ha0!"
+#email = "wangyr@zts.com.cn"

@@ -1,0 +1,9 @@
+[Log]
+LogFileName = "tgBot.log"
+
+
+
+[TgBotConfig]
+AdminID = "956772991"
+Proxy = "http://127.0.0.1:7890"
+Token = "5009245419:AAG_AYeObETfG08YhLQNKGK-PAX1mowolY4"
